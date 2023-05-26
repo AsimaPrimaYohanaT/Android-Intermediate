@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="username">Username</string>
+    <string name="email_gmail_com">email@gmail.com</string>
+    <string name="Password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="retry">Retry</string>
+    <string name="galeri">galeri</string>
+    <string name="camera">Camera</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
